@@ -469,22 +469,6 @@ The application was tested for:
 
 ---
 
-## 🚀 Future Enhancements
-
-Possible future improvements include:
-
-* 👤 User authentication and registration
-* 🔔 Price-drop notifications
-* 📊 Price history charts
-* 💾 Multiple wishlists
-* 🔍 Advanced filters
-* ⭐ Product ratings and reviews
-* 📧 Email notifications
-* 🌐 Deployment to a cloud platform
-* 📱 Progressive Web App support
-
----
-
 ## 👩‍💻 Author
 
 **Mogal Nausheen Begum**
